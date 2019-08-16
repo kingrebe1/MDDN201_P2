@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	background-color: #fffdea;
+}
+
+#flex {
+	display: flex;
+	justify-content: space-around;
+}
+
+nav {
+	font-family: courier;
+	margin-top: 1.5%;
+}
+
+a {
+	color: #0F3555;
+}
+
+p {
+	font-family: courier;
+	color: #C1A2A2;
+}
+
+#logo_main {
+	margin-top: 5%;
+}
+
+.centered_p {
+	display: flex;
+	justify-content: center;
+}
