@@ -23,6 +23,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: #C1A2A2;
+}
+
 .palette {
 	max-width: 50%;
 	margin-bottom: 1.5%;

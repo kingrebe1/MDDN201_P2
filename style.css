@@ -19,6 +19,13 @@ nav {
 a {
 	color: #0F3555;
 	text-decoration: none;
+	font-family: courier-std, monospace;
+	font-weight: 400;
+	font-style: normal;
+}
+
+a:hover {
+	color: #C1A2A2;
 }
 
 p {
@@ -69,4 +76,8 @@ h1 {
 
 .wide {
 	max-width: 100%;
+}
+
+li {
+	padding-bottom: 1.5%;
 }
