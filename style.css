@@ -34,11 +34,6 @@ p {
 	max-width: 25%;
 }
 
-.centered_p {
-	display: flex;
-	justify-content: center;
-}
-
 .active {
 	font-family: courier-std, monospace;
 	font-weight: 700;
@@ -70,4 +65,8 @@ h1 {
 .palette {
 	max-width: 50%;
 	margin-bottom: 1.5%;
+}
+
+.wide {
+	max-width: 100%;
 }
